@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+
+dbt_column_lineage.parquet
+dbt_model_lineage.parquet
